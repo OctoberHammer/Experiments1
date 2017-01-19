@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "0d7b63e850bfe386633de94d07f439d0"
+build_time: [538137467, 965593000]
+inputs:
+  "/Users/octoberhammer/Developer/Experiments/Experiments/ViewController.swift": [538137465, 0]
+  "/Users/octoberhammer/Developer/Experiments/Experiments/AppDelegate.swift": [538137465, 0]
